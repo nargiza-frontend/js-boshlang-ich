@@ -1,13 +1,19 @@
-.about-us {
+.container {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 40px;
   line-height: auto;
-  background-color:snow;
-  color:blueviolet;
 }
-#first-name {
+
+.dark-mode{
+  background-color: black;
+  color:#fff;
+}
+
+
+
+
+/* #first-name {
   color: blanchedalmond;
 }
 #last-name {
@@ -31,4 +37,4 @@
 #about-your{
   color:cadetblue;
   font-size: 50px;
-}
+} */
